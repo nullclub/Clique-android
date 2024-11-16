@@ -1,13 +1,50 @@
-# 🚀Clique
+# Welcome to your Expo app 👋
 
-Clique is a social web app designed specifically for college students to stay connected, organized, and motivated with their friend group. Whether it’s for study groups, sharing goals, or just having a fun space to post dorm moments, Clique makes it easy to keep in touch and support each other in college life.
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Features
+## Get started
 
-- _Study Material Corner_: A dedicated space where friends can share any study resources , making it easy to access group materials in one place.
-- _Study Session Scheduler_: Allows each friend to see who’s free and set up a study session in a specific location. Ideal for planning group study sessions and staying accountable.
-- _Roommate Journal_: Post updates, share funny moments, or add photos from the dorm. This is a casual, friendly feed where only your group can view and post.
+1. Install dependencies
 
-- _Shared Calendar_: A calendar feature for tracking events, deadlines, or important dates that the group should remember. Keeps everyone on the same page.
-- _Friend Goals_: A “progress tracker” where friends can create and monitor personal goals (like fitness, academic goals, or hobbies) and support each other in achieving them.
-- _Campus Eatery Reviews_: Share and rate your favorite places to eat around campus. Discover new spots together and keep a record of your group’s recommendations.
+   ```bash
+   npm install
+   ```
+
+2. Start the app
+
+   ```bash
+    npx expo start
+   ```
+
+In the output, you'll find options to open the app in a
+
+- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+
+You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+
+## Get a fresh project
+
+When you're ready, run:
+
+```bash
+npm run reset-project
+```
+
+This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+
+## Learn more
+
+To learn more about developing your project with Expo, look at the following resources:
+
+- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+## Join the community
+
+Join our community of developers creating universal apps.
+
+- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
+- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
